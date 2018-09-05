@@ -6,3 +6,5 @@ kød
 æg
 brød
 mayo
+juice
+mælk
