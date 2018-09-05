@@ -8,3 +8,5 @@ brød
 mayo
 juice
 mælk
+mælkesnitter
+halls
